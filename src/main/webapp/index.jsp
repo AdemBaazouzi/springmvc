@@ -1,0 +1,11 @@
+<html>
+<body>
+	<h2>Hello World!</h2>
+
+	<form action="/springmvc/hello">
+		Nom :<br> <input name="nom">
+
+	</form>
+
+</body>
+</html>
